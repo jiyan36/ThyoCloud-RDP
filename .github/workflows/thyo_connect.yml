@@ -1,4 +1,4 @@
-name: ThyoCloud Personal RDP (Fork)
+we name: ThyoCloud Personal RDP (Fork)
 
 on:
   workflow_dispatch:
